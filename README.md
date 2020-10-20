@@ -1,10 +1,10 @@
 # pq - A pure Go postgres driver for Go's database/sql package
 
-[![GoDoc](https://godoc.org/github.com/lib/pq?status.svg)](https://pkg.go.dev/github.com/lib/pq?tab=doc)
+[![GoDoc](https://godoc.org/github.com/roelvandergoot/pq?status.svg)](https://pkg.go.dev/github.com/roelvandergoot/pq?tab=doc)
 
 ## Install
 
-	go get github.com/lib/pq
+	go get github.com/roelvandergoot/pq
 
 ## Features
 
